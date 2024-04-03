@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import utilities.ReusableMethods;
 import utilities.TestBase;
 
-public class grup extends TestBase {
+public class Junit_TestExample extends TestBase {
 
     @Test
     public void sepet(){
